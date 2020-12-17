@@ -1,0 +1,653 @@
+{
+    "count": 108,
+    "rows": [
+        {
+            "id": 19,
+            "title": "air",
+            "createdAt": "2020-07-06T13:05:35.000Z",
+            "updatedAt": "2020-07-06T13:05:35.000Z"
+        },
+        {
+            "id": 105,
+            "title": "air X",
+            "createdAt": "2020-08-13T12:51:12.000Z",
+            "updatedAt": "2020-08-13T12:51:12.000Z"
+        },
+        {
+            "id": 95,
+            "title": "alliance unraveled",
+            "createdAt": "2020-07-07T23:28:51.000Z",
+            "updatedAt": "2020-07-07T23:28:51.000Z"
+        },
+        {
+            "id": 65,
+            "title": "ambassador",
+            "createdAt": "2020-07-06T13:49:14.000Z",
+            "updatedAt": "2020-07-06T13:49:14.000Z"
+        },
+        {
+            "id": 5,
+            "title": "attack",
+            "createdAt": "2020-06-21T09:37:54.000Z",
+            "updatedAt": "2020-06-21T09:37:54.000Z"
+        },
+        {
+            "id": 2,
+            "title": "battlegear",
+            "createdAt": "2020-06-21T09:37:13.000Z",
+            "updatedAt": "2020-06-21T09:37:13.000Z"
+        },
+        {
+            "id": 81,
+            "title": "battlemaster",
+            "createdAt": "2020-07-06T17:43:13.000Z",
+            "updatedAt": "2020-07-06T17:43:13.000Z"
+        },
+        {
+            "id": 102,
+            "title": "beast",
+            "createdAt": "2020-07-17T23:29:57.000Z",
+            "updatedAt": "2020-07-17T23:29:57.000Z"
+        },
+        {
+            "id": 91,
+            "title": "beyond the doors",
+            "createdAt": "2020-07-07T23:26:42.000Z",
+            "updatedAt": "2020-07-07T23:26:42.000Z"
+        },
+        {
+            "id": 24,
+            "title": "brainwashed",
+            "createdAt": "2020-07-06T13:08:22.000Z",
+            "updatedAt": "2020-07-06T13:08:22.000Z"
+        },
+        {
+            "id": 58,
+            "title": "caretaker",
+            "createdAt": "2020-07-06T13:36:31.000Z",
+            "updatedAt": "2020-07-06T13:36:31.000Z"
+        },
+        {
+            "id": 25,
+            "title": "challenge",
+            "createdAt": "2020-07-06T13:08:47.000Z",
+            "updatedAt": "2020-07-06T13:08:47.000Z"
+        },
+        {
+            "id": 75,
+            "title": "chieftain",
+            "createdAt": "2020-07-06T17:18:41.000Z",
+            "updatedAt": "2020-07-06T17:18:41.000Z"
+        },
+        {
+            "id": 67,
+            "title": "commander",
+            "createdAt": "2020-07-06T13:59:57.000Z",
+            "updatedAt": "2020-07-06T13:59:57.000Z"
+        },
+        {
+            "id": 83,
+            "title": "commom",
+            "createdAt": "2020-07-07T23:20:00.000Z",
+            "updatedAt": "2020-07-07T23:20:00.000Z"
+        },
+        {
+            "id": 71,
+            "title": "conjuror",
+            "createdAt": "2020-07-06T14:12:54.000Z",
+            "updatedAt": "2020-07-06T14:12:54.000Z"
+        },
+        {
+            "id": 68,
+            "title": "conqueror",
+            "createdAt": "2020-07-06T14:00:47.000Z",
+            "updatedAt": "2020-07-06T14:00:47.000Z"
+        },
+        {
+            "id": 80,
+            "title": "controller",
+            "createdAt": "2020-07-06T17:42:12.000Z",
+            "updatedAt": "2020-07-06T17:42:12.000Z"
+        },
+        {
+            "id": 13,
+            "title": "cost-0",
+            "createdAt": "2020-07-06T12:41:50.000Z",
+            "updatedAt": "2020-07-06T12:41:50.000Z"
+        },
+        {
+            "id": 14,
+            "title": "cost-1",
+            "createdAt": "2020-07-06T12:42:01.000Z",
+            "updatedAt": "2020-07-06T12:42:01.000Z"
+        },
+        {
+            "id": 15,
+            "title": "cost-2",
+            "createdAt": "2020-07-06T12:42:10.000Z",
+            "updatedAt": "2020-07-06T12:42:10.000Z"
+        },
+        {
+            "id": 16,
+            "title": "cost-3",
+            "createdAt": "2020-07-06T12:42:21.000Z",
+            "updatedAt": "2020-07-06T12:42:21.000Z"
+        },
+        {
+            "id": 17,
+            "title": "cost-4",
+            "createdAt": "2020-07-06T12:42:34.000Z",
+            "updatedAt": "2020-07-06T12:42:34.000Z"
+        },
+        {
+            "id": 18,
+            "title": "cost-5",
+            "createdAt": "2020-07-06T12:42:43.000Z",
+            "updatedAt": "2020-07-06T12:42:43.000Z"
+        },
+        {
+            "id": 98,
+            "title": "courage",
+            "createdAt": "2020-07-17T16:34:04.000Z",
+            "updatedAt": "2020-07-17T16:34:04.000Z"
+        },
+        {
+            "id": 1,
+            "title": "creature",
+            "createdAt": "2020-06-21T09:36:57.000Z",
+            "updatedAt": "2020-06-21T09:36:57.000Z"
+        },
+        {
+            "id": 6,
+            "title": "danian",
+            "createdAt": "2020-06-21T09:38:03.000Z",
+            "updatedAt": "2020-06-21T09:38:03.000Z"
+        },
+        {
+            "id": 88,
+            "title": "dawn of perim ",
+            "createdAt": "2020-07-07T23:25:02.000Z",
+            "updatedAt": "2020-07-07T23:25:02.000Z"
+        },
+        {
+            "id": 109,
+            "title": "deal X",
+            "createdAt": "2020-08-13T13:01:20.000Z",
+            "updatedAt": "2020-08-13T13:01:20.000Z"
+        },
+        {
+            "id": 26,
+            "title": "defender",
+            "createdAt": "2020-07-06T13:09:12.000Z",
+            "updatedAt": "2020-07-06T13:09:12.000Z"
+        },
+        {
+            "id": 27,
+            "title": "disarm",
+            "createdAt": "2020-07-06T13:09:38.000Z",
+            "updatedAt": "2020-07-06T13:09:38.000Z"
+        },
+        {
+            "id": 112,
+            "title": "discard",
+            "createdAt": "2020-08-13T21:50:54.000Z",
+            "updatedAt": "2020-08-13T21:50:54.000Z"
+        },
+        {
+            "id": 20,
+            "title": "earth",
+            "createdAt": "2020-07-06T13:06:07.000Z",
+            "updatedAt": "2020-07-06T13:06:07.000Z"
+        },
+        {
+            "id": 108,
+            "title": "earth X",
+            "createdAt": "2020-08-13T12:51:47.000Z",
+            "updatedAt": "2020-08-13T12:51:47.000Z"
+        },
+        {
+            "id": 28,
+            "title": "element-proof",
+            "createdAt": "2020-07-06T13:10:57.000Z",
+            "updatedAt": "2020-07-06T13:10:57.000Z"
+        },
+        {
+            "id": 62,
+            "title": "elementalist",
+            "createdAt": "2020-07-06T13:40:57.000Z",
+            "updatedAt": "2020-07-06T13:40:57.000Z"
+        },
+        {
+            "id": 70,
+            "title": "elite",
+            "createdAt": "2020-07-06T14:08:16.000Z",
+            "updatedAt": "2020-07-06T14:08:16.000Z"
+        },
+        {
+            "id": 111,
+            "title": "energy",
+            "createdAt": "2020-08-13T21:24:14.000Z",
+            "updatedAt": "2020-08-13T21:24:14.000Z"
+        },
+        {
+            "id": 69,
+            "title": "ethereal",
+            "createdAt": "2020-07-06T14:01:14.000Z",
+            "updatedAt": "2020-07-06T14:01:14.000Z"
+        },
+        {
+            "id": 29,
+            "title": "exhaust",
+            "createdAt": "2020-07-06T13:11:28.000Z",
+            "updatedAt": "2020-07-06T13:11:28.000Z"
+        },
+        {
+            "id": 103,
+            "title": "expend",
+            "createdAt": "2020-08-10T15:41:03.000Z",
+            "updatedAt": "2020-08-10T15:41:03.000Z"
+        },
+        {
+            "id": 21,
+            "title": "fire",
+            "createdAt": "2020-07-06T13:06:16.000Z",
+            "updatedAt": "2020-07-06T13:06:16.000Z"
+        },
+        {
+            "id": 101,
+            "title": "fire and stone",
+            "createdAt": "2020-07-17T23:29:42.000Z",
+            "updatedAt": "2020-07-17T23:29:42.000Z"
+        },
+        {
+            "id": 106,
+            "title": "fire X",
+            "createdAt": "2020-08-13T12:51:21.000Z",
+            "updatedAt": "2020-08-13T12:51:21.000Z"
+        },
+        {
+            "id": 110,
+            "title": "flip",
+            "createdAt": "2020-08-13T13:18:07.000Z",
+            "updatedAt": "2020-08-13T13:18:07.000Z"
+        },
+        {
+            "id": 30,
+            "title": "fluidmorph",
+            "createdAt": "2020-07-06T13:11:49.000Z",
+            "updatedAt": "2020-07-06T13:11:49.000Z"
+        },
+        {
+            "id": 77,
+            "title": "fluidmorpher",
+            "createdAt": "2020-07-06T17:35:16.000Z",
+            "updatedAt": "2020-07-06T17:35:16.000Z"
+        },
+        {
+            "id": 94,
+            "title": "forged unity",
+            "createdAt": "2020-07-07T23:28:15.000Z",
+            "updatedAt": "2020-07-07T23:28:15.000Z"
+        },
+        {
+            "id": 31,
+            "title": "gain-energy",
+            "createdAt": "2020-07-06T13:12:15.000Z",
+            "updatedAt": "2020-07-06T13:12:15.000Z"
+        },
+        {
+            "id": 11,
+            "title": "generic",
+            "createdAt": "2020-06-21T09:39:02.000Z",
+            "updatedAt": "2020-06-21T09:39:02.000Z"
+        },
+        {
+            "id": 61,
+            "title": "guardian",
+            "createdAt": "2020-07-06T13:39:49.000Z",
+            "updatedAt": "2020-07-06T13:39:49.000Z"
+        },
+        {
+            "id": 32,
+            "title": "heal",
+            "createdAt": "2020-07-06T13:12:30.000Z",
+            "updatedAt": "2020-07-06T13:12:30.000Z"
+        },
+        {
+            "id": 63,
+            "title": "hero",
+            "createdAt": "2020-07-06T13:41:57.000Z",
+            "updatedAt": "2020-07-06T13:41:57.000Z"
+        },
+        {
+            "id": 33,
+            "title": "hive",
+            "createdAt": "2020-07-06T13:12:47.000Z",
+            "updatedAt": "2020-07-06T13:12:47.000Z"
+        },
+        {
+            "id": 35,
+            "title": "infect",
+            "createdAt": "2020-07-06T13:15:24.000Z",
+            "updatedAt": "2020-07-06T13:15:24.000Z"
+        },
+        {
+            "id": 37,
+            "title": "intimidate",
+            "createdAt": "2020-07-06T13:16:17.000Z",
+            "updatedAt": "2020-07-06T13:16:17.000Z"
+        },
+        {
+            "id": 38,
+            "title": "invisibility",
+            "createdAt": "2020-07-06T13:17:02.000Z",
+            "updatedAt": "2020-07-06T13:17:02.000Z"
+        },
+        {
+            "id": 76,
+            "title": "kharall",
+            "createdAt": "2020-07-06T17:19:29.000Z",
+            "updatedAt": "2020-07-06T17:19:29.000Z"
+        },
+        {
+            "id": 104,
+            "title": "league rewards",
+            "createdAt": "2020-08-11T14:59:54.000Z",
+            "updatedAt": "2020-08-11T14:59:54.000Z"
+        },
+        {
+            "id": 39,
+            "title": "legendary",
+            "createdAt": "2020-07-06T13:17:19.000Z",
+            "updatedAt": "2020-07-06T13:17:19.000Z"
+        },
+        {
+            "id": 4,
+            "title": "location",
+            "createdAt": "2020-06-21T09:37:43.000Z",
+            "updatedAt": "2020-06-21T09:37:43.000Z"
+        },
+        {
+            "id": 40,
+            "title": "loyal",
+            "createdAt": "2020-07-06T13:17:35.000Z",
+            "updatedAt": "2020-07-06T13:17:35.000Z"
+        },
+        {
+            "id": 79,
+            "title": "mandiblor",
+            "createdAt": "2020-07-06T17:40:21.000Z",
+            "updatedAt": "2020-07-06T17:40:21.000Z"
+        },
+        {
+            "id": 8,
+            "title": "marr",
+            "createdAt": "2020-06-21T09:38:24.000Z",
+            "updatedAt": "2020-06-21T09:38:24.000Z"
+        },
+        {
+            "id": 12,
+            "title": "minion",
+            "createdAt": "2020-06-22T02:18:08.000Z",
+            "updatedAt": "2020-06-22T02:18:08.000Z"
+        },
+        {
+            "id": 7,
+            "title": "mipedian",
+            "createdAt": "2020-06-21T09:38:16.000Z",
+            "updatedAt": "2020-06-21T09:38:16.000Z"
+        },
+        {
+            "id": 41,
+            "title": "mirage",
+            "createdAt": "2020-07-06T13:18:23.000Z",
+            "updatedAt": "2020-07-06T13:18:23.000Z"
+        },
+        {
+            "id": 59,
+            "title": "muge",
+            "createdAt": "2020-07-06T13:39:19.000Z",
+            "updatedAt": "2020-07-06T13:39:19.000Z"
+        },
+        {
+            "id": 3,
+            "title": "mugic",
+            "createdAt": "2020-06-21T09:37:34.000Z",
+            "updatedAt": "2020-06-21T09:37:34.000Z"
+        },
+        {
+            "id": 82,
+            "title": "noble",
+            "createdAt": "2020-07-06T17:44:12.000Z",
+            "updatedAt": "2020-07-06T17:44:12.000Z"
+        },
+        {
+            "id": 42,
+            "title": "outperform",
+            "createdAt": "2020-07-06T13:19:13.000Z",
+            "updatedAt": "2020-07-06T13:19:13.000Z"
+        },
+        {
+            "id": 9,
+            "title": "overworld",
+            "createdAt": "2020-06-21T09:38:39.000Z",
+            "updatedAt": "2020-06-21T09:38:39.000Z"
+        },
+        {
+            "id": 64,
+            "title": "past",
+            "createdAt": "2020-07-06T13:47:46.000Z",
+            "updatedAt": "2020-07-17T23:29:23.000Z"
+        },
+        {
+            "id": 99,
+            "title": "power",
+            "createdAt": "2020-07-17T16:34:24.000Z",
+            "updatedAt": "2020-07-17T16:34:24.000Z"
+        },
+        {
+            "id": 96,
+            "title": "promo",
+            "createdAt": "2020-07-07T23:31:17.000Z",
+            "updatedAt": "2020-08-11T14:58:46.000Z"
+        },
+        {
+            "id": 43,
+            "title": "range",
+            "createdAt": "2020-07-06T13:19:41.000Z",
+            "updatedAt": "2020-07-06T13:19:41.000Z"
+        },
+        {
+            "id": 85,
+            "title": "rare",
+            "createdAt": "2020-07-07T23:20:34.000Z",
+            "updatedAt": "2020-07-07T23:20:34.000Z"
+        },
+        {
+            "id": 44,
+            "title": "recklessness",
+            "createdAt": "2020-07-06T13:19:56.000Z",
+            "updatedAt": "2020-07-06T13:19:56.000Z"
+        },
+        {
+            "id": 92,
+            "title": "rise of the oligarch",
+            "createdAt": "2020-07-07T23:27:07.000Z",
+            "updatedAt": "2020-07-07T23:27:07.000Z"
+        },
+        {
+            "id": 74,
+            "title": "royal",
+            "createdAt": "2020-07-06T14:14:44.000Z",
+            "updatedAt": "2020-07-06T14:14:44.000Z"
+        },
+        {
+            "id": 45,
+            "title": "sacrifice",
+            "createdAt": "2020-07-06T13:22:49.000Z",
+            "updatedAt": "2020-07-06T13:22:49.000Z"
+        },
+        {
+            "id": 60,
+            "title": "scout",
+            "createdAt": "2020-07-06T13:39:36.000Z",
+            "updatedAt": "2020-07-06T13:39:36.000Z"
+        },
+        {
+            "id": 90,
+            "title": "silent sands",
+            "createdAt": "2020-07-07T23:26:10.000Z",
+            "updatedAt": "2020-07-07T23:26:10.000Z"
+        },
+        {
+            "id": 46,
+            "title": "source",
+            "createdAt": "2020-07-06T13:23:18.000Z",
+            "updatedAt": "2020-07-06T13:23:18.000Z"
+        },
+        {
+            "id": 97,
+            "title": "speed",
+            "createdAt": "2020-07-17T16:33:31.000Z",
+            "updatedAt": "2020-07-17T16:33:31.000Z"
+        },
+        {
+            "id": 78,
+            "title": "squadleader",
+            "createdAt": "2020-07-06T17:39:49.000Z",
+            "updatedAt": "2020-07-06T17:39:49.000Z"
+        },
+        {
+            "id": 73,
+            "title": "stalker",
+            "createdAt": "2020-07-06T14:13:54.000Z",
+            "updatedAt": "2020-07-06T14:13:54.000Z"
+        },
+        {
+            "id": 47,
+            "title": "stat-check",
+            "createdAt": "2020-07-06T13:23:58.000Z",
+            "updatedAt": "2020-07-06T13:23:58.000Z"
+        },
+        {
+            "id": 48,
+            "title": "stat-fail",
+            "createdAt": "2020-07-06T13:24:23.000Z",
+            "updatedAt": "2020-07-06T13:24:23.000Z"
+        },
+        {
+            "id": 57,
+            "title": "strategist",
+            "createdAt": "2020-07-06T13:35:20.000Z",
+            "updatedAt": "2020-07-06T13:35:20.000Z"
+        },
+        {
+            "id": 49,
+            "title": "strike",
+            "createdAt": "2020-07-06T13:24:45.000Z",
+            "updatedAt": "2020-07-06T13:24:45.000Z"
+        },
+        {
+            "id": 86,
+            "title": "super rare",
+            "createdAt": "2020-07-07T23:20:55.000Z",
+            "updatedAt": "2020-07-07T23:20:55.000Z"
+        },
+        {
+            "id": 50,
+            "title": "support",
+            "createdAt": "2020-07-06T13:25:04.000Z",
+            "updatedAt": "2020-07-06T13:25:35.000Z"
+        },
+        {
+            "id": 51,
+            "title": "surprise",
+            "createdAt": "2020-07-06T13:25:24.000Z",
+            "updatedAt": "2020-07-06T13:25:24.000Z"
+        },
+        {
+            "id": 52,
+            "title": "swift",
+            "createdAt": "2020-07-06T13:25:52.000Z",
+            "updatedAt": "2020-07-06T13:25:52.000Z"
+        },
+        {
+            "id": 66,
+            "title": "taskmaster",
+            "createdAt": "2020-07-06T13:59:02.000Z",
+            "updatedAt": "2020-07-06T13:59:02.000Z"
+        },
+        {
+            "id": 93,
+            "title": "turn of the tide",
+            "createdAt": "2020-07-07T23:27:39.000Z",
+            "updatedAt": "2020-07-07T23:27:39.000Z"
+        },
+        {
+            "id": 87,
+            "title": "ultra rare",
+            "createdAt": "2020-07-07T23:21:17.000Z",
+            "updatedAt": "2020-07-07T23:21:17.000Z"
+        },
+        {
+            "id": 84,
+            "title": "uncommon",
+            "createdAt": "2020-07-07T23:20:19.000Z",
+            "updatedAt": "2020-07-07T23:20:19.000Z"
+        },
+        {
+            "id": 10,
+            "title": "underworld",
+            "createdAt": "2020-06-21T09:38:51.000Z",
+            "updatedAt": "2020-06-21T09:38:51.000Z"
+        },
+        {
+            "id": 55,
+            "title": "unique",
+            "createdAt": "2020-07-06T13:32:06.000Z",
+            "updatedAt": "2020-07-06T13:32:06.000Z"
+        },
+        {
+            "id": 54,
+            "title": "untargetable",
+            "createdAt": "2020-07-06T13:31:51.000Z",
+            "updatedAt": "2020-07-06T13:31:51.000Z"
+        },
+        {
+            "id": 72,
+            "title": "warbeast",
+            "createdAt": "2020-07-06T14:13:26.000Z",
+            "updatedAt": "2020-07-06T14:13:26.000Z"
+        },
+        {
+            "id": 56,
+            "title": "warrior",
+            "createdAt": "2020-07-06T13:34:45.000Z",
+            "updatedAt": "2020-07-06T13:34:45.000Z"
+        },
+        {
+            "id": 22,
+            "title": "water",
+            "createdAt": "2020-07-06T13:06:25.000Z",
+            "updatedAt": "2020-07-06T13:06:25.000Z"
+        },
+        {
+            "id": 107,
+            "title": "water X",
+            "createdAt": "2020-08-13T12:51:30.000Z",
+            "updatedAt": "2020-08-13T12:51:30.000Z"
+        },
+        {
+            "id": 100,
+            "title": "wisdom",
+            "createdAt": "2020-07-17T16:34:46.000Z",
+            "updatedAt": "2020-07-17T16:34:46.000Z"
+        },
+        {
+            "id": 89,
+            "title": "zenith of the hive",
+            "createdAt": "2020-07-07T23:25:48.000Z",
+            "updatedAt": "2020-07-07T23:25:48.000Z"
+        }
+    ]
+}
